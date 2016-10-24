@@ -1,5 +1,5 @@
 {
-  "name": "Weather Application",
+  "name": "weatherapp",
   "version": "1.0.0",
   "description": "React made application for getting temperature in given location. temp in C",
   "main": "index.js",
