@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "weatherapp",
-=======
   "name": "weather",
->>>>>>> 9da38205c1e81c49d9c5e29d636c7f87f3df48ad
   "version": "1.0.0",
   "description": "React made application for getting temperature in given location. temp in C",
   "main": "index.js",
