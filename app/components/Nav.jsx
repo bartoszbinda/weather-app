@@ -14,7 +14,7 @@ var Nav = React.createClass({
             <IndexLink to="/" activeClassName="active" activeStyle={{fontWeight: 'bold'}} >Get Weather</IndexLink>
           </li>
           <li>
-            <Link to="/about" activeClassName="active" activeStyle={{fontWeight: 'bold'}} >About us</Link>
+            <Link to="/about" activeClassName="active" activeStyle={{fontWeight: 'bold'}} >About</Link>
           </li>
           <li>
             <Link to="/examples" activeClassName="active" activeStyle={{fontWeight: 'bold'}}>Examples</Link>
