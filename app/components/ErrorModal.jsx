@@ -5,7 +5,8 @@ var ReactDOMServer = require('react-dom/server');
 var ErrorModal = React.createClass({
   getDefaultProps: function() {
     return {
-      title: 'Error :-('
+      title: 'Error :-(',
+      message: "City not found"
     };
   },
   propTypes: {
